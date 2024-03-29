@@ -4,7 +4,7 @@ public class RectangleTest {
 	public static void main(String[] args) {
 		System.out.println("**Encapsulation **");
 
-		Rectangle rt= new Rectangle(20,30);
+		Rectangle rt= new Rectangle(20,40);
 
 		rt.setLength(50);
 
